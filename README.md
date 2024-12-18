@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Luqman 👋
+# Hi there, I'm Mohammed Luqman 👋
 
 ## About Me
 I'm a passionate software developer with a strong interest in machine learning and artificial intelligence. I love exploring new technologies, building projects, and contributing to open source.
