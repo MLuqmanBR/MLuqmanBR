@@ -1,10 +1,8 @@
 # Mohammed Luqman Bin Rizwan
 
 Software developer and web designer based in Visakhapatnam, India.
-3+ years of freelance client work, approximately 33 websites built
-and shipped end-to-end across diverse industries.
-
-Currently pursuing M.Tech in Artificial Intelligence and Machine.
+3+ years of independent client work across a wide range of industries.
+Currently pursuing an M.Tech in Artificial Intelligence and Machine Learning.
 
 ---
 
@@ -26,7 +24,7 @@ Custom browser new-tab dashboard built for real personal daily use.
 Client-side encrypted text and password sharing tool. Nothing is stored server-side.
 
 **[Embedded-Video-Links-Player](https://github.com/mluqmanbr/Embedded-Video-Links-Player)**  
-Paste any embed link and play it instantly, or queue multiple links and play them as a playlist.
+Paste any embed link and play it instantly, or queue multiple links as a playlist.
 
 **[Daily-Time-Tracker](https://github.com/mluqmanbr/Daily-Time-Tracker)**  
 Task list with per-task time tracking to monitor and improve time management.
@@ -35,5 +33,6 @@ Task list with per-task time tracking to monitor and improve time management.
 
 ## Contact
 
+Portfolio: [mluqmanbr.com](https://mluqmanbr.com)  
 Email: mluqmanbr@gmail.com  
 LinkedIn: [linkedin.com/in/mluqmanbr](https://linkedin.com/in/mluqmanbr)
